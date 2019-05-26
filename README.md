@@ -15,7 +15,7 @@ class Dog
 
   def bark
     if quiet?
-      puts "#{name}, the #{size} dog, says rf"
+      puts "#{name}, the #{size} dog, says ruff."
     else
       puts "#{name}, the #{size} dog, says RUFF!"
     end
